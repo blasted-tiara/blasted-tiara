@@ -9,8 +9,8 @@ I am a fan of Linux, web scraping, low level programming, computer graphics and 
 *   🌍  I'm based in Sarajevo
 *   🖥️  See my portfolio at [enverpodgorcevic.com](http://enverpodgorcevic.com)
 *   ✉️  You can contact me at [enver.podgorcevic@gmail.com](mailto:enver.podgorcevic@gmail.com)
-*   🚀  I'm currently working on [my procedural tree generator in Unity](http://github.com/blasted-tiara/LSystemUnity)
-*   🤝  I'm open to collaborating on procedural graphics projects!
+*   🚀  I'm currently working on [my online multiplayer co-op platformer game in Rust](https://github.com/blasted-tiara/flux/)
+*   🤝  I'm open to collaborating on procedural graphics or game making projects!
 
 ### Skills 
 <p align="left">
